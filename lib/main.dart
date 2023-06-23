@@ -24,7 +24,7 @@ class MainApp extends StatelessWidget {
               children: [
                 const Center(
                   child: Text(
-                    "List of Account",
+                    "List of Account2",
                     style: TextStyle(fontSize: 20),
                   ),
                 ),
